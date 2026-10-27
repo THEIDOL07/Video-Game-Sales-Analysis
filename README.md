@@ -69,7 +69,7 @@ Understand how video game sales vary by platform, genre, publisher, region and r
 
 ## ▶️ How to View
 - **Quick view:** open `Dashboard_Report.pdf` (no software needed).
-- **Interactive:** download `video_game_sales_dashboard.pbix` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
+- **Interactive:** download `presentation_dashboard.pbix` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
 
 ## 👤 Author
 **Habeeb mohamed** | [LinkedIn](www.linkedin.com/in/habeeb-mohamed-77004b416) | habeebmohamed2016@gmail.com
